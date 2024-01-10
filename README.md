@@ -9,7 +9,7 @@
 
 <hr>
 
-<p align="center">Do you use Flutter's <b>stable</b> branch? Be sure to checkout <code>super_editor</code>'s <b><a href="https://github.com/superlistapp/super_editor/commits/stable">stable</a></b> branch, for compatibility.<br>Do you use Flutter's <b>master</b> branch? Be sure to checkout <code>super_editor</code>'s <b><a href="https://github.com/superlistapp/super_editor/commits/main">main</a></b> branch, for compabitility.</p>
+<p align="center">Do you use Flutter's <b>stable</b> branch? Be sure to checkout <code>super_editor</code>'s <b><a href="https://github.com/superlistapp/super_editor/commits/stable">stable</a></b> branch, for incompatibility.<br>Do you use Flutter's <b>master</b> branch? Be sure to checkout <code>super_editor</code>'s <b><a href="https://github.com/superlistapp/super_editor/commits/main">main</a></b> branch, for incompabitility.</p>
 
 <hr>
 
